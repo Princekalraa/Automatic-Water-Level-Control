@@ -1,5 +1,5 @@
 # Automatic-Water-Level-Control
 
 
-#automatic mode : Dispense water at the fixed value 
-#manual Mode : value of the liquuid to be dispensed can be set by the user\
+<br>automatic mode : Dispense water at the fixed value </br>
+#manual Mode : value of the liquuid to be dispensed can be set by the user
